@@ -15,7 +15,7 @@ Using a http server written in node.js (koa) which currently only serves static 
 ## how to use this
 
 0. clone this repository
-1. install node.js (recommended using [node version manager](https://github.com/nvm-sh/nvm) by running `nvm use` in this folder
+1. install node.js (recommended using [node version manager](https://github.com/nvm-sh/nvm) by running (once `nvm install`) and `nvm use` in this folder
 2. install dependencies by running `npm install` in `server/` folder
 3. start the server by running `npm start`
 4. Visit local server for hardcoded example: http://localhost:3000/piazza-lago.jsonld
