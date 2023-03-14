@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Place",
+  "@id": "algotecture://ba835038-c94a-44a3-917d-7f8636b4f756",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.9704513549805,
+    "longitude": 8.88397884368897,
+    "postalCode": "6987",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Caslano",
+      "addressCountry": "CH"
+    }
+  },
+  "containsPlace": "http://localhost:3000/rooms/piazza-lago.jsonld",
+  "name": "Piazza Lago"
+}
